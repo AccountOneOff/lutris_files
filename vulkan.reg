@@ -1,5 +1,9 @@
 REGEDIT4
 
+[HKEY_LOCAL_MACHINE\Software\Khronos]
+
+[HKEY_LOCAL_MACHINE\Software\Khronos\Vulkan]
+
 [HKEY_LOCAL_MACHINE\Software\Khronos\Vulkan\Drivers]
 "C:\\Windows\\winevulkan.json"=dword:00000000
 
